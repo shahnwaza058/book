@@ -45,5 +45,6 @@ The Library Management System is designed to facilitate book borrowing and manag
 
 <img width="960" alt="image" src="https://github.com/shahnwaza058/book/assets/138658659/976387a0-5924-48b9-af1b-d2d606d6feb2">
 
+<img width="960" alt="image" src="https://github.com/shahnwaza058/book/assets/138658659/3c3acfee-e2d8-4cdb-9314-9535163946ce">
 
 
